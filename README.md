@@ -4,7 +4,7 @@ Automated pipeline that aggregates **metabolite biomarker candidates** for psych
 (schizophrenia, depression, bipolar disorder, anxiety, PTSD, autism, ADHD) from
 **6 open scientific databases**, deduplicates them, and exports an interactive HTML dashboard.
 
-Built as part of a Final Degree Project (TFG) in Biomedical Sciences.
+Built as part of a Final Degree Project in Chemistry.
 
 ---
 
@@ -208,3 +208,4 @@ pytest tests/ -v
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
